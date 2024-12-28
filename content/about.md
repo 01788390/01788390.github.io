@@ -5,4 +5,3 @@ url: "/about/"
 summary: about
 ---
 
-hello
